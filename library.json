@@ -1,0 +1,23 @@
+{
+  "name": "arduino-rgb-led",
+  "keywords": "arduino, rgb, led",
+  "description": "A tiny lib to animate a RGB led in arduino programs",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/hakkanicko/arduino-rgb-led"
+  },
+  "authors":
+  [
+    {
+      "name": "hakkanicko",
+      "email": "???? optional",
+      "url": "??? optional",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
